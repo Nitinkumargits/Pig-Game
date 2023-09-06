@@ -2,4 +2,4 @@
 
 - Game based on javaScript.
 
-## DEMO : https://nitinkumargits.github.io/Pig-Game/
+### DEMO : https://nitinkumargits.github.io/Pig-Game/
